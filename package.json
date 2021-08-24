@@ -1,0 +1,29 @@
+{
+  "name": "sec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calli.js",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "dateformat": "^4.5.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "gif-search": "^2.1.0",
+    "guild": "^1.2.3",
+    "hh-mm-ss": "^1.2.0",
+    "jimp": "^0.16.1",
+    "math-expression-evaluator": "^1.3.8",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "node-cmd": "^4.0.0",
+    "snekfetch": "^4.0.4",
+    "table": "^6.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
